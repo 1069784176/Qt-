@@ -1,0 +1,5 @@
+把exe复制到当前目录，运行“管理员权限补丁.bat”即可。
+
+可同时补丁N个exe，如需补丁dll，请自行修改。
+
+参考：http://msdn.microsoft.com/en-us/library/ms235591.aspx
